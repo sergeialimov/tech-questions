@@ -1,6 +1,7 @@
 /**
  * When multiple classes inherit from a parent and override the same functionality,
- * the result is polymorphism
+ * the result is polymorphism.
+ * Polymorphism allows you to specify discrete logic that is customized for each specific child class.
  */
 
 class CheckingAccount {
