@@ -1,3 +1,9 @@
+/**
+ * A key aspect of object-oriented programming, encapsulation enables you to perform data hiding.
+ * It’s necessary to hide certain data so that it’s not changed accidentally or
+ * purposefully by other components or code in the program.
+ */
+
 class BankAccount {
 
   public minimumBalance: number;
