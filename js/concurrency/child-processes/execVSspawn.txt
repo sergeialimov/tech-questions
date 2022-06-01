@@ -1,0 +1,4 @@
+if you care only about process completion then 'exec' would be your choice.
+Spawn opens streams for stdout en stderr with ondata events, exec just returns a buffer with stdout and stderr as strings.
+
+https://stackoverflow.com/questions/48698234/node-js-spawn-vs-execute#:~:text=The%20main%20difference%20is%20the,try%20to%20execute%20your%20process.
