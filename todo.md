@@ -2,9 +2,6 @@ How to make authorization on several devices
 
 Docker
 
-Node.js event-loop
-Priorities of events
-
 DB
 What's the difference of relational and not-relational databases from performance perspective
 https://insightsoftware.com/blog/whats-the-difference-relational-vs-non-relational-databases/#:~:text=Non%2Drelational%20databases%20can%20store,or%20medium%2Dsized%20data%20sets.
