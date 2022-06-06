@@ -5,7 +5,7 @@
  */
 
 /**
- *  If a given interface has more features than you require, follow the
+ * If a given interface has more features than you require, follow the
  * Interface Segregation Principle and create a new interface that includes only the functionality
  * your client code requires, and which you can implement fully.
  */
