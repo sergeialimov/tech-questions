@@ -4,3 +4,5 @@ https://insightsoftware.com/blog/whats-the-difference-relational-vs-non-relation
 Non-relational databases can store unlimited sets of data with any type and have the flexibility to change the data type.
 
 But relational databases work best when performing intensive read/write operations on small- or medium-sized data sets.
+
+https://ubuntu.com//blog/sql-vs-nosql
