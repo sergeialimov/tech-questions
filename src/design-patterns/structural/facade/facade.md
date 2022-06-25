@@ -1,3 +1,18 @@
+Facade
+It provides a simplified interface to complex code.
+
+According to Wikipedia
+
+The facade pattern (also spelled façade) is a software-design pattern commonly used in object-oriented programming. Analogous to a facade in architecture, a facade is an object that serves as a front-facing interface masking more complex underlying or structural code.
+
+Example
+Let’s take an example of a client interacts with the computer.
+
+
+
+
+
+
 Facade is a structural design pattern that provides a simplified interface to a library, a framework, or any other complex set of classes.
 
 
